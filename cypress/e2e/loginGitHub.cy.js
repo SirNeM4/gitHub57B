@@ -29,6 +29,7 @@ describe ("Loging Page for GitHub", ()=>{
 
     beforeEach(() => {
         cy.visit(url);
+        cy.url().should("contain",url);
     })
 
     it("GH01 Login using invalid credentiasl", () => {
