@@ -1,4 +1,4 @@
-### I made a change, I started using POM in this project, that is why the exercise in the pdf provided is different from this one
+### I made a change, I started using POM on this project, that is why the exercise in the pdf provided is different from this one
 
 ### How it works
 This project uses POM (Page Object Model) as a QA design pattern, and this will be the folder structure
